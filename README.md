@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RyanSchlenz
 - 👀 I’m interested in Software Engineering. 
-- 🌱 I’m currently learning Javascript and Java. 
-- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me https://www.linkedin.com/in/ryan-schlenz-757495b8/
 
 <!---
