@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @RyanSchlenz
-- 👀 I’m interested in Software Engineering. 
 - 📫 How to reach me https://www.linkedin.com/in/ryan-schlenz-757495b8/
 
 <!---
